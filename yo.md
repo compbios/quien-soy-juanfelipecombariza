@@ -1,13 +1,3 @@
-Hola soy **Fabián Gil**
-
-
-
-
-
-
-
-Soy *estadístico* y Bioestadístico
-
 Hola mi nombre es **Juan Felipe Combariza**
 
 Soy médico, internista  y Hematólogo.
